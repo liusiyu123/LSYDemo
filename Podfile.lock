@@ -1,0 +1,16 @@
+PODS:
+  - LSYLogin (0.1.0)
+
+DEPENDENCIES:
+  - LSYLogin (from `Lib/LSYLogin`)
+
+EXTERNAL SOURCES:
+  LSYLogin:
+    :path: Lib/LSYLogin
+
+SPEC CHECKSUMS:
+  LSYLogin: 4ded5e1f87faa2441371a269e12e526701c3f8a9
+
+PODFILE CHECKSUM: c4e166f94cd3dacddfa5356d77f8e189d1cd49a3
+
+COCOAPODS: 1.10.1
